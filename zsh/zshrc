@@ -15,7 +15,7 @@ alias cowtune="fortune | cowsay"
 alias scan="sudo arp-scan --localnet"
 alias ..="cd .."
 alias ...="cd ../.."
-alias cdc="cd '/Users/dex/Library/Mobile Documents/com~apple~CloudDocs'"
+alias cdc="cd '~/Library/Mobile Documents/com~apple~CloudDocs'"
 alias ls="eza --oneline --icons"
 
 compdef eza=ls
