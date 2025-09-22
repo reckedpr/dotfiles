@@ -1,0 +1,3 @@
+# I use git config < --global core.excludesfile '~/.gitignore_global' > to set these btw
+.DS_Store
+.vscode
