@@ -6,4 +6,4 @@ export PATH
 
 source ~/.orbstack/shell/init.zsh 2>/dev/null || :
 
-./.motd.sh
+~/.motd.sh
