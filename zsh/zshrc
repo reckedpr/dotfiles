@@ -20,6 +20,10 @@ alias ls="eza --oneline --icons"
 
 compdef eza=ls
 
+eval "$(zoxide init zsh)"
+
+export PATH="$HOME/go/bin:$PATH"
+
 export CLICOLOR=1
 export LSCOLORS=ExFxBxDxCxegedabagacad
 
